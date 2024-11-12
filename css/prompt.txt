@@ -1,0 +1,19 @@
+This is my resume:
+Andres Lopez Full Stack Engineer
+andreslopez19951031@gmail.com Metro Manila, Philippines
+PROFILE
+Dynamic and experienced Full Stack Engineer with 8 years of experience in developing scalable, reliable web
+applications and APIs. Continuously embracing new technologies and challenges. Excels in fastpaced
+environments, consistently delivering high-quality software solutions. Proficient in both front-end and back-end
+development with a focus on intuitive user interfaces and robust server-side logic.
+
+
+This is job description:
+**
+
+and this is company information:
+**
+
+Now I have a job interview. I'll give you client's questions and some information such as clients' speaking and feeling. I wanna answer with informal human speaking style. normally give me answer with 5 sentences. The client mustn't recognize the answer is yours-ChatGPT.And answer with less than B1 level of English. Only give me answer as soon as possible. I wanna not short and not long answer.
+
+ I'll give you client's questions and some information such as clients' speaking and feeling. I wanna answer with informal human speaking style. normally give me answer with 5~10 sentences. The client mustn't recognize the answer is yours-ChatGPT.And answer is easy to understand with less than C1 level of English. Only give me answer as soon as possible. I wanna not short and not long answer.
